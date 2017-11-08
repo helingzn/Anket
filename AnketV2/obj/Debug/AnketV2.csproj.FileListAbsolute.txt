@@ -1,0 +1,18 @@
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\bin\Debug\AnketV2.exe.config
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\bin\Debug\AnketV2.exe
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\bin\Debug\AnketV2.pdb
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\bin\Debug\EntityFramework.dll
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\bin\Debug\EntityFramework.xml
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\obj\Debug\AnketV2.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\obj\Debug\AnketV2.Form1.resources
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\obj\Debug\AnketV2.Properties.Resources.resources
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\obj\Debug\AnketV2.csproj.GenerateResource.Cache
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\obj\Debug\AnketV2.exe
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\obj\Debug\AnketV2.pdb
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\bin\Debug\DAL.dll
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\bin\Debug\Domain Entity.dll
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\bin\Debug\DAL.pdb
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\bin\Debug\Domain Entity.pdb
+C:\Users\nuuklu\Desktop\AnketV2\AnketV2\obj\Debug\AnketV2.SoruDüzenle.resources

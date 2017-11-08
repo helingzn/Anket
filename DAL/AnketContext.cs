@@ -1,0 +1,17 @@
+﻿using Domain_Entity.models;
+using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DAL
+{
+    public class AnketContext : DbContext
+    {
+        public virtual DbSet<Soru> Sorular { get; set; } 
+        public virtual DbSet<Cevap> Cevaplar { get; set; }
+        public virtual DbSet<Kişi> Kişiler { get; set; }
+    }
+}
